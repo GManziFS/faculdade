@@ -1,0 +1,12 @@
+br = quebra de linha
+
+vh = view port = tela
+width <---->
+height de cima a baixo
+
+
+usar <style></style> para css
+
+"." para definir uma propriedade de css entao seria ".nome_da_classe" e na frente abrir chaves {} o que estiver dentro é as prop
+
+"#" para definir props unicas de css entao seria "#nome_do_ID" e na frente abrir chaves {} o que estiver dentro é as prop unicas
