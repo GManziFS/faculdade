@@ -1,0 +1,14 @@
+.circulo{
+    background-color: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-color: rgb(71, 71, 71) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 97vh;
+}
